@@ -1,4 +1,7 @@
 site_name: unusual nemo
+site_description: my digital garden
+site_author: nemo
+site_url: https://unusualnemo.com
 
 repo_url: https://github.com/unusualnemo/unusualnemo.github.io
 
