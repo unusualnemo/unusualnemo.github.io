@@ -86,7 +86,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://unusualnemo.com/to%20sort/activity%20tracker/</loc>
+         <lastmod>2023-01-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://unusualnemo.com/to%20sort/diccionario/</loc>
+         <lastmod>2023-01-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://unusualnemo.com/to%20sort/fran%C3%A7ais/</loc>
+         <lastmod>2023-01-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://unusualnemo.com/to%20sort/gr%C3%A1ficos%20de%20verbos%20irregular/</loc>
+         <lastmod>2023-01-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://unusualnemo.com/to%20sort/gr%C3%A1ficos%20de%20verbos%20regular/</loc>
          <lastmod>2023-01-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -142,6 +162,11 @@
     </url>
     <url>
          <loc>https://unusualnemo.com/to%20sort/savannah%20hypothesis/</loc>
+         <lastmod>2023-01-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://unusualnemo.com/to%20sort/topics/</loc>
          <lastmod>2023-01-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
