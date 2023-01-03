@@ -6,16 +6,15 @@ site_url: https://unusualnemo.com
 repo_url: https://github.com/unusualnemo/unusualnemo.github.io
 
 theme:
-  name: material
-  #custom_dir: overrides
-  font:
-    text: Atkinson Hyperlegible
-  logo: assets/images/logo.png
-  favicon: assets/images/favicon.png
-  features:
+    name: 'material'
+    custom_dir: overrides
+    font:
+      text: Atkinson Hyperlegible
+    logo: assets/img/logo.png
+    features:
     - navigation.top
     - search.highlight
-  palette:
+    palette:
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -35,33 +34,59 @@ theme:
       primary: indigo
       accent: deep orange
 
-nav:
-  - home: 'index.md'
-  - about: 'about.md'
-  - 'computer science':
-    - 'programming': 'programming.md'
-    - 'databases': 'databases.md'
-
+# Extensions
 markdown_extensions:
-  - attr_list
+  - footnotes
+  # - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
-
-markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.details
+  # - pymdownx.magiclink
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - def_list
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  - roamlinks 
+  - mermaid2
+  - embed_file:
+      callouts: true
+      language_message: 'this note does not exist'
 
 extra_javascript:
-  - javascripts/mathjax.js
+  - assets/javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://unpkg.com/mermaid/dist/mermaid.min.js 
 
 extra_css:
-  - stylesheets/extra.css
+  - assets/stylesheets/extra.css
 
 extra:
   social:
     - icon: fontawesome/brands/github 
       link: https://github.com/unusualnemo
       name: unusualnemo on github
+
+nav:
+  - 'home': index.md
+  - 'metalearning': metalearning.md
+  - 'math': math.md
+  - 'computer science': computer science.md
+  - 'history': history.md
+  - 'language learning': language learning.md
+  - 'health': health.md
