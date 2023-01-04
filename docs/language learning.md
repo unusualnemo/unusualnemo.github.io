@@ -2,12 +2,15 @@
 title: language learning
 tags: topic, language
 date created: 23.01.02, 10:03:21
-date modified: 23.01.04, 11:19:37
+date modified: 23.01.04, 12:28:29
 ---
 
 [refold method](https://refold.la/roadmap)
 
-see also: [[types of immersion]] and [[active study in language learning]]
+see also:
+	- [[types of immersion]]
+	- [[active study in language learning]]
+	- [[active recall and spaced repetition]]
 
 ---
 
