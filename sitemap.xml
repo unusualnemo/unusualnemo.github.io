@@ -31,6 +31,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://unusualnemo.com/complex%20numbers/</loc>
+         <lastmod>2023-01-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://unusualnemo.com/computer%20science/</loc>
          <lastmod>2023-01-04</lastmod>
          <changefreq>daily</changefreq>
@@ -71,7 +76,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://unusualnemo.com/paleolithic%20technology%2C%20culture%2C%20and%20art/</loc>
+         <loc>https://unusualnemo.com/paleolithic%20art/</loc>
+         <lastmod>2023-01-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://unusualnemo.com/paleolithic%20language%20and%20culture/</loc>
+         <lastmod>2023-01-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://unusualnemo.com/paleolithic%20technology/</loc>
          <lastmod>2023-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
