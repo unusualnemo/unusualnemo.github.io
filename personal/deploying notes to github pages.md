@@ -1,8 +1,8 @@
 ---
-title: !deploying to github pages
+title: deploying notes to github pages
 tags: 
 date created: 23.01.04, 11:57:11
-date modified: 23.01.04, 11:59:52
+date modified: 23.01.04, 12:07:14
 ---
 
 - take notes as usual
