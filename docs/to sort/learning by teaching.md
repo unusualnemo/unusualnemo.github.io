@@ -12,7 +12,7 @@ date modified: 23.01.02, 21:48:44
 - why does this work?
 	- it helps in finding holes in your knowledge
 		- when you come up against a wall in your explanation (and you will), that's what you need to study further
-	- [[active recall|actively pulling the info out of your brain]]
+	- [[active recall and spaced repetition|actively pulling the info out of your brain]]
 	- [[taking notes in your own words|rephrasing the info in your own words]]
 
 ---
