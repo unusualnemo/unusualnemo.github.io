@@ -22,4 +22,4 @@ above: this guy, the "ice man", was found in the ötztal alps (this is a recreat
 - believed to have been killed by another human
 	- arrowhead in his left shoulder and other wounds
 - he had 61 tattoos?!
-	- they may have been for pain relief?? like acupucture, that's incredible
+	- they may have been for pain relief?? like acupuncture, that's incredible
