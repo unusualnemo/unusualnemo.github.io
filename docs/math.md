@@ -2,12 +2,14 @@
 title: math
 tags: topic, math
 date created: 23.01.02, 10:03:21
-date modified: 23.01.03, 09:22:40
+date modified: 23.01.04, 11:21:18
 ---
 
 [i am learning math at khan academy](https://www.khanacademy.org/math)
 
 [[math glossary]]
+
+[[mathjax reference]]
 
 ---
 
@@ -19,9 +21,10 @@ date modified: 23.01.03, 09:22:40
 - i'm skipping algebra i and going right to algebra ii
 	- i've taken both; algebra i seems very basic, but i think i need a review of algebra ii
 
-### complex numbers
+[[complex numbers]]
 
-future topics:
+### next
+
 - polynomial factorization
 - polynomial division
 - polynomial graphs
@@ -35,15 +38,13 @@ future topics:
 
 ## trigonometry
 
-future topics:
 - right triangles & trigonometry
 - trigonometric functions
 - non-right triangles & trigonometry
 - trigonometric equations and identities
 
-## statistics
+### statistics
 
-future topics:
 - analyzing categorical data
 - displaying and comparing quantitative data
 - summarizing quantitative data
@@ -61,11 +62,10 @@ future topics:
 - advanced regression (inference and transforming)
 - analysis of variance (anova)
 
-## calculus
+### calculus
 
-### precalculus
+#### precalculus
 
-future topics:
 - composite and inverse functions
 - trigonometry
 - complex numbers
@@ -77,9 +77,8 @@ future topics:
 - series
 - limits and continuity
 
-### differential calculus
+#### differential calculus
 
-future topics:
 - limits and continuity
 - derivatives: definition and basic rules
 - derivatives: chain rule and other advanced topics
@@ -87,18 +86,16 @@ future topics:
 - analyzing functions
 - parametric equations, polar coordinates, and vector-valued functions
 
-### integral calculus
+#### integral calculus
 
-future topics:
 - integrals
 - differential equations
 - applications of integrals
 - parametric equations, polar coordinates, and vector-valued functions
 - series
 
-### multivariable calculus
+#### multivariable calculus
 
-future topics:
 - thinking about multivariable functions
 - derivatives of multivariable functions
 - applications of multivariable derivatives

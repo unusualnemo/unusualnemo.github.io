@@ -1,8 +1,8 @@
 ---
 title: computer science
-tags: topic, comp_sci
+tags: comp_sci, topic
 date created: 23.01.02, 10:03:21
-date modified: 23.01.02, 21:45:32
+date modified: 23.01.04, 11:20:16
 ---
 
 [i am learning computer science at codecademy](https://www.codecademy.com/learn/paths/computer-science)
@@ -20,7 +20,8 @@ date modified: 23.01.02, 21:45:32
 [[loops]]
 
 future topics:
-	
+
+
 	[[functions]]
 	
 	[[git]]

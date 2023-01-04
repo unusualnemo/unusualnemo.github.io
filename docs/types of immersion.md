@@ -13,7 +13,7 @@ the 'active' in active immersion refers to actively taking in the content. this 
 
 this can get difficult because trying to focus on something that you don't understand can be a pain. especially when you are aware that you could be reading/watching something that you do understand.
 
->rewatching or rereading something you've already seen or read in your natural language can help you stay engaged.
+> rewatching or rereading something you've already seen or read in your natural language can help you stay engaged.
 
 ## passive listening
 
@@ -21,6 +21,6 @@ passive listening refers to listening to content while you're doing something el
 
 passive listening will not help you understanding the language as well as active immersion can, but it can help you recognize the sounds of the language.
 
->it can be really helpful to listen while you're reading too!
->
->i like to listen to an audiobook while i'm reading the same [[español#reading (and listening along)|book]], for instance.
+> it can be really helpful to listen while you're reading too!
+> 
+> i like to listen to an audiobook while i'm reading the same [[español#reading (and listening along)|book]], for instance.

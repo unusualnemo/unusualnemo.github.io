@@ -2,32 +2,52 @@
 title: loops
 tags: 
 date created: 23.01.03, 09:36:23
-date modified: 23.01.03, 10:00:10
+date modified: 23.01.04, 11:20:19
 ---
 
 ## types of loops
 
 ### for loops
 
+- loops over a set of items and does something to each item
+
+```python
+for <temporary variable> in <list variable>:
+  <action statement>
+  <action statement>
+
+nums = [1,2,3,4,5]
+for num in nums:     # assigns the variable 'num' to each item that goes into this 'for loop'
+  print(num)         # prints that 'num' and grabs another 'num' from 'nums'
+
+# output:
+
+# 1
+# 2
+# 3
+# 4
+# 5
+```
+
 ### while loops
 
 ## nested loops
 
-## other
+### other
 
-### infinite loops
+#### infinite loops
 
-### break
+#### break
 
 - escapes a loop
 
-```
+```python
 numbers = [0, 254, 2, -1, 3]
 
 for num in numbers:
-	if (num < 0):
+	if (num < 0):                           # the number '-1' will pop into this 'if-statement' ...
 		print("Negative number detected!")
-		break
+		break                               # ... and break the 'for loop' here
 	print(num)
 
 # output:
@@ -41,9 +61,49 @@ for num in numbers:
 - the for loop is broken in the above example
 - notice how `-1` is not printed and the loop skips over `3` entirely
 
-### continue
+#### continue
 
-### for i in range()
+- similar to break in that it skips the rest of the loop, but it doesn't break the loop completely
+
+```python
+big_number_list = [1, 2, -1, 4, -5, 5, 2, -9]  # a bunch of numbers
+for i in big_number_list:                      # assigns 'i' for a single number in list
+  if i < 0:                                    # if 'i' is negative it goes into this 'if-statement' ...
+    continue                                   # ... and it skips the rest of the 'for loop' ...
+  print(i)                                     # ... otherwise, it gets printed
+
+# output                                       # and thus only positive (and zero) numbers get printed!
+
+#1
+#2
+#4
+#5
+#2
+```
+
+#### for i in range()
+
+- takes a number (i.e. `for i in range(3)` takes `3`) and does something that many times in a row
+	- can use the number `i` like in the first example below
+	- or can ignore `i` like in the second example
+
+```python
+for i in range(3):   #three numbers, starting with zero
+  print(i)
+
+for i in range(3):   #three iterations
+  print("WARNING")
+
+# output
+
+#0
+#1
+#2
+
+#WARNING
+#WARNING
+#WARNING
+```
 
 ## list comprehension
 
@@ -52,7 +112,7 @@ for num in numbers:
 - list comprehensions always return a list
 - `[EXPRESSION for ITEM in LIST <if CONDITIONAL>]`
 
-```
+```python
 result = [x**2 for x in range(10) if x % 2 == 0]
 print(result)
 

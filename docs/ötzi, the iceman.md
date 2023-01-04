@@ -1,12 +1,14 @@
 ---
 title: ötzi, the iceman
-tags: history
+tags: [history]
 date created: 23.01.03, 11:25:42
 date modified: 23.01.03, 11:28:01
 ---
 
 ![[ice_man.jpg]]
-- this guy, the "ice man", was found in the ötztal alps (this is a recreation)
+
+above: this guy, the "ice man", was found in the ötztal alps (this is a recreation)
+
 - europe's oldest known natural human mummy
 - he was preserved in ice for 5000 years
 - he was found with stone and natural-fiber tools

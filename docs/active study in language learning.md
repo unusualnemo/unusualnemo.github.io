@@ -2,7 +2,7 @@
 title: active study in language learning
 tags: language
 date created: 23.01.02, 21:20:38
-date modified: 23.01.02, 21:43:09
+date modified: 23.01.04, 11:20:04
 ---
 
 related to: [[active recall]]
@@ -29,17 +29,16 @@ look up grammar on a need-to-know basis. if you haven't seen a rule before, you 
 
 also your brain will have an easier time figuring out grammar if you have actual context behind it (rather than memorizing tables of abstract rules).
 
->[!NOTE]
->another interest of mine is looking into language trees and how languages related to one another, why they differ and where they are similar. so some study of grammar is exceptionally interesting to me.
+> another interest of mine is looking into language trees and how languages related to one another, why they differ and where they are similar. so some study of grammar is exceptionally interesting to me.
 
 if you, like most people, think grammar is very boring, you don't have to study it a whole lot.
 
 the bare minimum (at least for something like a romance language or similar) is:
+
 - to understand how to tell the subject, verb, and object apart
 - to understand conjugation enough to begin to pick out verb tenses.
 
->[!TIP]
->spend as little time as you need to on grammar.
+> spend as little time as you need to on grammar.
 
 ## vocab
 

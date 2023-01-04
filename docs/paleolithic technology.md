@@ -1,14 +1,9 @@
 ---
-title: paleolithic technology, culture, and art
+title: paleolithic technology
 tags: history
-date created: 23.01.03, 12:24:30
-date modified: 23.01.03, 12:24:34
+date created: 23.01.04, 10:13:19
+date modified: 23.01.04, 10:15:36
 ---
-
-- tools made of stone and natural fibers
-- language, art, scientific inquiry, and spiritual life were some important innovations of the paleolithic era
-
-## technology
 
 - stone tools are possibly the first cultural artifacts that historians can study
 - the names of the paleolithic periods are based on the progression of tools
