@@ -13,10 +13,7 @@ date modified: 23.01.02, 21:46:26
 				- homos were arboreal simians (monkeys in trees)
 				- fruit-based diet
 				- quadrupeds
-				- australopithecus afarensis
-					- australo - southern
-					- pithecus - ape
-					- afar - afar region (ethiopia)
+				- australopithecus afarensis [[etymology - australopithecus afarensis]]
 					- lucy
 						- found in 1974
 						- 3 mya

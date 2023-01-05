@@ -8,7 +8,7 @@ date modified: 23.01.02, 21:46:40
 - sagittal crest to anchor temporalis muscle
 	- means they needed to chew some tough stuff
 	- meat-based diet
-<br>![[paranthropus_aethiopicus_skull.jpg]]
+<br>![[paranthropus aethiopicus skull.jpg]]
 
 above: this is called the "black skull"
 
