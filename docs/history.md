@@ -21,6 +21,8 @@ date modified: 23.01.05, 09:29:07
 
 [[paleolithic art]]
 
+[[organizing paleolithic societies]]
+
 - the neolithic revolution and the birth of agriculture
 - ancient mesopotamia
 - ancient egypt
