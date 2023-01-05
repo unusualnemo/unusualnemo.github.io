@@ -2,25 +2,16 @@
 title: language learning
 tags: topic, language
 date created: 23.01.02, 10:03:21
-date modified: 23.01.04, 12:28:29
+date modified: 23.01.05, 11:30:55
 ---
 
 [refold method](https://refold.la/roadmap)
 
-see also:
-	- [[types of immersion]]
-	- [[active study in language learning]]
-	- [[active recall and spaced repetition]]
+[[español]]
 
 ---
 
-## current languages
-
-[[español]]
-
-[[français]]
-
-## language acquisition
+## language acquisition theory
 
 'acquiring' language is different from 'studying' a language. this method of acquiring a language tries to copy how most people learned their first language:
 
@@ -32,4 +23,30 @@ the major difference that this method has to other methods of learning a languag
 >
 > i find that speaking a little can also be motivating. it really sucks to be studying a language for a while and still not be able to say even the simplest things in that language. speaking a little and being able to communicate something with someone can also signal to the brain that what you're learning is useful and can help you focus on it when you need to.
 
-the minimal [[active study in language learning|studying]] you do do will be only enough to begin understanding what you're hearing in your [[types of immersion|immersion]].
+## practical application
+
+### [[initial studying in language learning|initial studying]]
+
+- writing system
+- phonetics
+- grammar
+- 1-2k words
+
+### continued studying
+
+- [[grammar study]]
+- [[flashcards in language learning]]
+	- [[sentence mining]]
+
+### [[immersion]]
+
+- [[immersion#active|active immersion]]
+	- [[immersion#intensive|intensive]]
+		- crepúsculo
+		- [[sentence mining]]
+	- [[immersion#free flow|free flow]]
+		- los espookies
+		- 31 minutos
+- [[immersion#passive|passive immersion]]
+	- diana uribe
+	- music

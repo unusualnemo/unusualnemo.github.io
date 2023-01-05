@@ -2,7 +2,7 @@
 title: metalearning
 tags: topic, metalearning
 date created: 23.01.02, 10:03:22
-date modified: 23.01.05, 09:13:25
+date modified: 23.01.05, 11:48:27
 ---
 
 [super memo](http://super-memory.com/index.htm)
@@ -19,7 +19,13 @@ mind-mapping
 
 ## studying
 
-[[active recall and spaced repetition]]
+[[active recall]]
+
+[[spaced repetition]]
+
+[[flashcards]]
+
+mnemonics
 
 [[learning by teaching]]
 
