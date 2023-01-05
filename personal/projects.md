@@ -3,9 +3,11 @@
 - [x] plan tea party
 - [x] look up more events
 
-# ![[travelling]]
+# travelling
+![[travelling]]
 
-# ![[cleaning]]
+# cleaning
+![[cleaning]]
 
 # other
 
