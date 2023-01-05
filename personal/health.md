@@ -1,10 +1,3 @@
----
-title: health
-tags: topic, health
-date created: 23.01.02, 15:22:00
-date modified: 23.01.03, 12:23:13
----
-
 ## routine
 
 - this [[health#sleep|sleep]]
