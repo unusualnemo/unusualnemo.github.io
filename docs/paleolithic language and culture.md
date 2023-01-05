@@ -1,11 +1,12 @@
 ---
 title: paleolithic language and culture
-tags: history
+tags:
+  - history
 date created: 23.01.04, 10:15:25
-date modified: 23.01.04, 10:15:28
+date modified: 23.01.05, 17:00:27
 ---
 
-[[etymology - paleolithic]]
+[[_paleolithic]]
 
 ---
 

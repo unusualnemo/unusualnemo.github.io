@@ -1,11 +1,12 @@
 ---
 title: paleolithic art
-tags: history
+tags:
+  - history
 date created: 23.01.04, 10:15:41
-date modified: 23.01.04, 10:15:45
+date modified: 23.01.05, 17:00:27
 ---
 
-[[etymology - paleolithic]]
+[[_paleolithic]]
 
 ---
 

@@ -1,11 +1,12 @@
 ---
 title: español
-tags: language
+tags:
+  - language
 date created: 22.12.28, 11:02:19
-date modified: 23.01.04, 13:49:28
+date modified: 23.01.05, 17:00:28
 ---
 
-see also: [[language learning]]
+see also: [[learning a language]]
 
 ## resources
 
@@ -41,7 +42,7 @@ i enjoy both of these because they focus on transferring your knowledge of your 
 - [language transfer ->](https://www.languagetransfer.org/) - a podcast
 - madrigal's magic key to spanish - a book
 
-see [[language learning#grammar|here]] for more about grammar study.
+see [[learning a language#grammar|here]] for more about grammar study.
 
 ## cheating at conjugation
 

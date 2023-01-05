@@ -1,8 +1,9 @@
 ---
 title: conditionals
-tags: comp_sci
+tags:
+  - comp_sci
 date created: 22.12.28, 11:02:32
-date modified: 23.01.02, 21:45:54
+date modified: 23.01.05, 17:00:28
 ---
 
 controls the flow of a function by branching into decisions

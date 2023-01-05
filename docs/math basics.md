@@ -1,8 +1,9 @@
 ---
 title: math basics
-tags: math
+tags:
+  - math
 date created: 22.12.29, 11:01:27
-date modified: 23.01.05, 10:34:05
+date modified: 23.01.05, 17:00:27
 ---
 
 ## basic stuff

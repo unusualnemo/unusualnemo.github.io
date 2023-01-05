@@ -1,11 +1,12 @@
 ---
 title: paleolithic technology
-tags: history
+tags:
+  - history
 date created: 23.01.04, 10:13:19
-date modified: 23.01.05, 10:00:56
+date modified: 23.01.05, 17:00:27
 ---
 
-[[etymology - paleolithic]]
+[[_paleolithic]]
 
 ---
 

@@ -1,8 +1,9 @@
 ---
 title: solving equations by inventing a number system
-tags: math
+tags:
+  - math
 date created: 23.01.05, 10:38:20
-date modified: 23.01.05, 10:42:24
+date modified: 23.01.05, 17:00:27
 ---
 
 from: [intro to the imaginary numbers from khan academy ->](https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:complex/x2ec2f6f830c9fb89:imaginary/a/intro-to-the-imaginary-numbers)

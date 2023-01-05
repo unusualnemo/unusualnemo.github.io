@@ -1,8 +1,9 @@
 ---
 title: learning by teaching
-tags: metalearning
+tags:
+  - metalearning
 date created: 23.01.02, 16:53:26
-date modified: 23.01.05, 16:36:39
+date modified: 23.01.05, 17:00:27
 ---
 
 - examples

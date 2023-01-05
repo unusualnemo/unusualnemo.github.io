@@ -1,8 +1,9 @@
 ---
 title: ötzi, the iceman
-tags: [history]
+tags:
+  - history
 date created: 23.01.03, 11:25:42
-date modified: 23.01.03, 11:28:01
+date modified: 23.01.05, 17:00:27
 ---
 
 ![[ice man.jpg]]

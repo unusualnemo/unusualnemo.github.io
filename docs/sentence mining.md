@@ -1,8 +1,9 @@
 ---
 title: sentence mining
-tags: language
+tags:
+  - language
 date created: 23.01.05, 11:20:05
-date modified: 23.01.05, 11:21:25
+date modified: 23.01.05, 17:00:27
 ---
 
 take sentences out of your [[immersion#active|active immersion]] and make them into flashcards

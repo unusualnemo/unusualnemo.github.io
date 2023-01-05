@@ -1,8 +1,9 @@
 ---
 title: lists
-tags: comp_sci
+tags:
+  - comp_sci
 date created: 22.12.28, 11:02:55
-date modified: 23.01.03, 09:46:22
+date modified: 23.01.05, 17:00:27
 ---
 
 ## list types

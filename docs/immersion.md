@@ -1,11 +1,12 @@
 ---
 title: immersion
-tags: language
+tags:
+  - language
 date created: 23.01.02, 21:20:05
-date modified: 23.01.05, 11:31:02
+date modified: 23.01.05, 17:00:28
 ---
 
-the most important part of [[language learning]] is the input. you input target-language content into your eyeballs and earballs, and you study [[flashcards in language learning|flashcards]] from that content.
+the most important part of [[learning a language]] is the input. you input target-language content into your eyeballs and earballs, and you study [[flashcards in language learning|flashcards]] from that content.
 
 ## active
 

@@ -1,8 +1,9 @@
 ---
 title: radiocarbon dating
-tags: history
+tags:
+  - history
 date created: 22.12.28, 10:39:18
-date modified: 23.01.02, 21:46:45
+date modified: 23.01.05, 17:00:27
 ---
 - up to 50 tya
 - $^{14}$C

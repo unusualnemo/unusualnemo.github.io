@@ -1,8 +1,9 @@
 ---
 title: imaginary numbers
-tags: math
+tags:
+  - math
 date created: 23.01.04, 11:21:31
-date modified: 23.01.05, 10:59:42
+date modified: 23.01.05, 17:00:28
 ---
 
 ## initial thoughts

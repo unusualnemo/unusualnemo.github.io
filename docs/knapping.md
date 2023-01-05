@@ -1,8 +1,9 @@
 ---
 title: knapping
-tags: history
+tags:
+  - history
 date created: 23.01.05, 09:56:31
-date modified: 23.01.05, 10:00:44
+date modified: 23.01.05, 17:00:27
 ---
 
 - hitting rocks against one another

@@ -1,8 +1,9 @@
 ---
 title: paranthropus aethiopicus
-tags: [history]
+tags:
+  - history
 date created: 22.12.28, 10:42:12
-date modified: 23.01.02, 21:46:40
+date modified: 23.01.05, 17:00:27
 ---
 
 - sagittal crest to anchor temporalis muscle

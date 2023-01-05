@@ -1,8 +1,9 @@
 ---
 title: homo sapiens and early human migration
-tags: [history]
+tags:
+  - history
 date created: 22.12.28, 09:41:00
-date modified: 23.01.02, 21:46:30
+date modified: 23.01.05, 17:00:28
 ---
 
 ## evolution of homo sapiens

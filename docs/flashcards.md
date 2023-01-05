@@ -1,8 +1,9 @@
 ---
 title: flashcards
-tags: metalearning
+tags:
+  - metalearning
 date created: 23.01.05, 11:48:37
-date modified: 23.01.05, 11:51:04
+date modified: 23.01.05, 17:00:27
 ---
 
 [[the forgetting curve]]

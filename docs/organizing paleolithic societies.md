@@ -1,11 +1,12 @@
 ---
 title: organizing paleolithic societies
-tags: history
+tags:
+  - history
 date created: 23.01.05, 09:35:23
-date modified: 23.01.05, 10:01:01
+date modified: 23.01.05, 17:00:27
 ---
 
-[[etymology - paleolithic]]
+[[_paleolithic]]
 
 ---
 

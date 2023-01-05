@@ -1,11 +1,12 @@
 ---
 title: initial studying in language learning
-tags: language
+tags:
+  - language
 date created: 23.01.02, 21:20:38
-date modified: 23.01.05, 16:36:43
+date modified: 23.01.05, 17:00:28
 ---
 
-studying shouldn't be your first priority of [[language learning]], [[immersion|immersion]] should be
+studying shouldn't be your first priority of [[learning a language]], [[immersion|immersion]] should be
 
 ## writing system and pronunciation
 
