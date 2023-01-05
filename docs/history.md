@@ -2,7 +2,7 @@
 title: history
 tags: topic, history
 date created: 23.01.02, 10:03:21
-date modified: 23.01.04, 10:20:45
+date modified: 23.01.05, 09:29:07
 ---
 
 [i am learning history at khan academy](https://www.khanacademy.org/humanities/world-history)
@@ -30,7 +30,7 @@ date modified: 23.01.04, 10:20:45
 - ancient americas
 - human innovation and the environment
 
-## year 600 bce - 600 ce
+## 600 bce - 600 ce
 
 - ancient persia
 - classical greece
@@ -51,7 +51,7 @@ date modified: 23.01.04, 10:20:45
 - transregional trade: the silk road
 - survey of second-wave civilizations
 
-### year 600 - 1450
+## 600 - 1450
 
 - byzantine empire
 - european middle ages: feudalism and serfdom
@@ -73,7 +73,7 @@ date modified: 23.01.04, 10:20:45
 - disease and demography
 - social institutions in the islamic world
 
-### 1450 - 1750
+## 1450 - 1750
 
 - spanish and portuguese empires
 - scientific revolution and enlightenment
@@ -82,7 +82,7 @@ date modified: 23.01.04, 10:20:45
 - the protestant reformation
 - the russian empire
 
-### 1750 - 1900
+## 1750 - 1900
 
 - american revolution
 - french revolution
@@ -92,7 +92,7 @@ date modified: 23.01.04, 10:20:45
 - latin american independence
 - imperialism
 
-### the 20th century
+## the 20th century
 
 - beginning of world war i
 - other fronts of world war i
