@@ -1,6 +1,6 @@
 ---
 title: loops
-tags: 
+tags: comp_sci
 date created: 23.01.03, 09:36:23
 date modified: 23.01.05, 09:28:04
 ---
