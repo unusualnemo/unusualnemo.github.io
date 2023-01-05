@@ -208,8 +208,12 @@
 <a class="md-nav__link" href="#nested-loops">
     nested loops
   </a>
-<nav aria-label="nested loops" class="md-nav">
-<ul class="md-nav__list">
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#list-comprehension">
+    list comprehension
+  </a>
+</li>
 <li class="md-nav__item">
 <a class="md-nav__link" href="#other">
     other
@@ -217,8 +221,8 @@
 <nav aria-label="other" class="md-nav">
 <ul class="md-nav__list">
 <li class="md-nav__item">
-<a class="md-nav__link" href="#infinite-loops">
-    infinite loops
+<a class="md-nav__link" href="#infinite-loops-and-getting-stuck">
+    infinite loops and getting stuck
   </a>
 </li>
 <li class="md-nav__item">
@@ -238,14 +242,6 @@
 </li>
 </ul>
 </nav>
-</li>
-</ul>
-</nav>
-</li>
-<li class="md-nav__item">
-<a class="md-nav__link" href="#list-comprehension">
-    list comprehension
-  </a>
 </li>
 </ul>
 </nav>
@@ -280,10 +276,76 @@
 <span class="c1"># 5</span>
 </code></pre></div>
 <h3 id="while-loops">while loops<a class="headerlink" href="#while-loops" title="Permanent link">¶</a></h3>
+<ul>
+<li>loops as long as a given condition is met</li>
+</ul>
+<div class="highlight"><pre><span></span><code><span class="n">hungry</span> <span class="o">=</span> <span class="kc">True</span>
+<span class="k">while</span> <span class="n">hungry</span><span class="p">:</span>            <span class="c1">#as long as 'hungry' is set to True, the loop will run</span>
+  <span class="nb">print</span><span class="p">(</span><span class="s2">"Time to eat!"</span><span class="p">)</span>
+  <span class="n">hungry</span> <span class="o">=</span> <span class="kc">False</span>         <span class="c1">#the loop changes 'hungry' to False, so the loop will end after only one go around</span>
+
+<span class="n">i</span> <span class="o">=</span> <span class="mi">1</span>
+<span class="k">while</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="mi">6</span><span class="p">:</span>             <span class="c1">#as long as 'i' is less than 6, the loop will continue to run</span>
+  <span class="nb">print</span><span class="p">(</span><span class="n">i</span><span class="p">)</span>
+  <span class="n">i</span> <span class="o">=</span> <span class="n">i</span> <span class="o">+</span> <span class="mi">1</span>              <span class="c1">#the loop adds 1 to 'i' and so eventually 'i' will equal 6, ending the loop</span>
+
+<span class="c1"># output:</span>
+
+<span class="c1">#Time to eat!            #loops one time</span>
+<span class="c1">#1                       #loops five times</span>
+<span class="c1">#2</span>
+<span class="c1">#3</span>
+<span class="c1">#4</span>
+<span class="c1">#5</span>
+</code></pre></div>
 <h2 id="nested-loops">nested loops<a class="headerlink" href="#nested-loops" title="Permanent link">¶</a></h2>
-<h3 id="other">other<a class="headerlink" href="#other" title="Permanent link">¶</a></h3>
-<h4 id="infinite-loops">infinite loops<a class="headerlink" href="#infinite-loops" title="Permanent link">¶</a></h4>
-<h4 id="break">break<a class="headerlink" href="#break" title="Permanent link">¶</a></h4>
+<ul>
+<li>you can put a loop inside another loop!</li>
+</ul>
+<div class="highlight"><pre><span></span><code><span class="n">groups</span> <span class="o">=</span> <span class="p">[[</span><span class="s2">"Jobs"</span><span class="p">,</span> <span class="s2">"Gates"</span><span class="p">],</span> <span class="p">[</span><span class="s2">"Newton"</span><span class="p">,</span> <span class="s2">"Euclid"</span><span class="p">],</span> <span class="p">[</span><span class="s2">"Einstein"</span><span class="p">,</span> <span class="s2">"Feynman"</span><span class="p">]]</span>
+
+<span class="k">for</span> <span class="n">group</span> <span class="ow">in</span> <span class="n">groups</span><span class="p">:</span>  <span class="c1"># this outer loop will iterate over each list in the groups list</span>
+  <span class="k">for</span> <span class="n">name</span> <span class="ow">in</span> <span class="n">group</span><span class="p">:</span>  <span class="c1"># this inner loop will go through each name in each list</span>
+    <span class="nb">print</span><span class="p">(</span><span class="n">name</span><span class="p">)</span>
+
+<span class="c1"># output:</span>
+
+<span class="c1">#Jobs</span>
+<span class="c1">#Gates   </span>
+<span class="c1">#Newton  </span>
+<span class="c1">#Euclid  </span>
+<span class="c1">#Einstein</span>
+<span class="c1">#Feynman</span>
+</code></pre></div>
+<h2 id="list-comprehension">list comprehension<a class="headerlink" href="#list-comprehension" title="Permanent link">¶</a></h2>
+<ul>
+<li><em>i have a bit of trouble with this topic</em></li>
+<li>list comprehensions create lists with a loop</li>
+<li>list comprehensions always return a list</li>
+<li><code>[EXPRESSION for ITEM in LIST &lt;if CONDITIONAL&gt;]</code></li>
+</ul>
+<div class="highlight"><pre><span></span><code><span class="n">result</span> <span class="o">=</span> <span class="p">[</span><span class="n">x</span><span class="o">**</span><span class="mi">2</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span> <span class="k">if</span> <span class="n">x</span> <span class="o">%</span> <span class="mi">2</span> <span class="o">==</span> <span class="mi">0</span><span class="p">]</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">result</span><span class="p">)</span>
+
+<span class="c1"># output:</span>
+
+<span class="c1"># [0, 4, 16, 36, 64]</span>
+</code></pre></div>
+<ul>
+<li>x<span class="arithmatex">\(^2\)</span> for x in 0 -&gt; 9</li>
+<li>and if the remainder when divided by 2 is 0 (when the number is even)</li>
+</ul>
+<p>so it takes a list of numbers from 0 to 9: <code>[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]</code></p>
+<p>squares them all: <code>[0, 1, 4, 9, 16, 25, 36, 49, 64, 81]</code></p>
+<p>and returns the even ones: <code>[0, 4, 16, 36, 64]</code></p>
+<h2 id="other">other<a class="headerlink" href="#other" title="Permanent link">¶</a></h2>
+<h3 id="infinite-loops-and-getting-stuck">infinite loops and getting stuck<a class="headerlink" href="#infinite-loops-and-getting-stuck" title="Permanent link">¶</a></h3>
+<ul>
+<li>if the program is taking forever, it may be in an infinite loop</li>
+<li>an infinite loop occurs when there's nothing preventing the program from terminating</li>
+<li>pressing <code>ctrl</code> + <code>c</code> will terminate the program and end the infinite loop</li>
+</ul>
+<h3 id="break">break<a class="headerlink" href="#break" title="Permanent link">¶</a></h3>
 <ul>
 <li>escapes a loop</li>
 </ul>
@@ -306,7 +368,7 @@
 <li>the for loop is broken in the above example</li>
 <li>notice how <code>-1</code> is not printed and the loop skips over <code>3</code> entirely</li>
 </ul>
-<h4 id="continue">continue<a class="headerlink" href="#continue" title="Permanent link">¶</a></h4>
+<h3 id="continue">continue<a class="headerlink" href="#continue" title="Permanent link">¶</a></h3>
 <ul>
 <li>similar to break in that it skips the rest of the loop, but it doesn't break the loop completely</li>
 </ul>
@@ -324,7 +386,7 @@
 <span class="c1">#5</span>
 <span class="c1">#2</span>
 </code></pre></div>
-<h4 id="for-i-in-range">for i in range()<a class="headerlink" href="#for-i-in-range" title="Permanent link">¶</a></h4>
+<h3 id="for-i-in-range">for i in range()<a class="headerlink" href="#for-i-in-range" title="Permanent link">¶</a></h3>
 <ul>
 <li>takes a number (i.e. <code>for i in range(3)</code> takes <code>3</code>) and does something that many times in a row<ul>
 <li>can use the number <code>i</code> like in the first example below</li>
@@ -348,27 +410,6 @@
 <span class="c1">#WARNING</span>
 <span class="c1">#WARNING</span>
 </code></pre></div>
-<h2 id="list-comprehension">list comprehension<a class="headerlink" href="#list-comprehension" title="Permanent link">¶</a></h2>
-<ul>
-<li><em>i have a bit of trouble with this topic</em></li>
-<li>list comprehensions create lists with a loop</li>
-<li>list comprehensions always return a list</li>
-<li><code>[EXPRESSION for ITEM in LIST &lt;if CONDITIONAL&gt;]</code></li>
-</ul>
-<div class="highlight"><pre><span></span><code><span class="n">result</span> <span class="o">=</span> <span class="p">[</span><span class="n">x</span><span class="o">**</span><span class="mi">2</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span> <span class="k">if</span> <span class="n">x</span> <span class="o">%</span> <span class="mi">2</span> <span class="o">==</span> <span class="mi">0</span><span class="p">]</span>
-<span class="nb">print</span><span class="p">(</span><span class="n">result</span><span class="p">)</span>
-
-<span class="c1"># output:</span>
-
-<span class="c1"># [0, 4, 16, 36, 64]</span>
-</code></pre></div>
-<ul>
-<li>x<span class="arithmatex">\(^2\)</span> for x in 0 -&gt; 9</li>
-<li>and if the remainder when divided by 2 is 0 (when the number is even)</li>
-</ul>
-<p>so it takes a list of numbers from 0 to 9: <code>[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]</code></p>
-<p>squares them all: <code>[0, 1, 4, 9, 16, 25, 36, 49, 64, 81]</code></p>
-<p>and returns the even ones: <code>[0, 4, 16, 36, 64]</code></p>
 </article>
 </div>
 </div>
