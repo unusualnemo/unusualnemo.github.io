@@ -1,8 +1,9 @@
 ---
-title: math
-tags: topic, math
+title: learning math
+tags:
+  - math
 date created: 23.01.02, 10:03:21
-date modified: 23.01.05, 11:07:04
+date modified: 23.01.05, 17:04:37
 ---
 
 [i am at khan academy ->](https://www.khanacademy.org/math)
@@ -15,7 +16,7 @@ date modified: 23.01.05, 11:07:04
 
 ## algebra
 
-- [[etymology - algebra]]
+- [[_algebra]]
 - i'm skipping algebra i and going right to algebra ii
 	- i've taken both; algebra i seems very basic, but i think i need a review of algebra ii
 

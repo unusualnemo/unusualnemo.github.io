@@ -1,8 +1,9 @@
 ---
-title: history
-tags: topic, history
+title: learning history
+tags:
+  - history
 date created: 23.01.02, 10:03:21
-date modified: 23.01.05, 09:29:07
+date modified: 23.01.05, 17:04:10
 ---
 
 [i am learning at khan academy ->](https://www.khanacademy.org/humanities/world-history)

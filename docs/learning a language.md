@@ -1,8 +1,9 @@
 ---
-title: language learning
-tags: topic, language
+title: learning a language
+tags:
+  - language
 date created: 23.01.02, 10:03:21
-date modified: 23.01.05, 11:30:55
+date modified: 23.01.05, 17:04:27
 ---
 
 [refold method ->](https://refold.la/roadmap)

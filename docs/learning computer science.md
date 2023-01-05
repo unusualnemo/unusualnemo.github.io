@@ -1,8 +1,9 @@
 ---
-title: computer science
-tags: comp_sci, topic
+title: learning computer science
+tags:
+  - comp_sci
 date created: 23.01.02, 10:03:21
-date modified: 23.01.05, 09:15:18
+date modified: 23.01.05, 17:04:14
 ---
 
 [i am learning at codecademy ->](https://www.codecademy.com/learn/paths/computer-science)

@@ -1,8 +1,9 @@
 ---
-title: metalearning
-tags: topic, metalearning
+title: learning how to learn
+tags:
+  - metalearning
 date created: 23.01.02, 10:03:22
-date modified: 23.01.05, 11:48:27
+date modified: 23.01.05, 17:04:55
 ---
 
 [super memo ->](http://super-memory.com/index.htm)
