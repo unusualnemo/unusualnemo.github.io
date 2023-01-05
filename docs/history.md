@@ -5,7 +5,7 @@ date created: 23.01.02, 10:03:21
 date modified: 23.01.05, 09:29:07
 ---
 
-[i am learning history at khan academy](https://www.khanacademy.org/humanities/world-history)
+[i am learning at khan academy ->](https://www.khanacademy.org/humanities/world-history)
 
 ---
 

@@ -5,7 +5,7 @@ date created: 23.01.02, 10:03:21
 date modified: 23.01.05, 11:30:55
 ---
 
-[refold method](https://refold.la/roadmap)
+[refold method ->](https://refold.la/roadmap)
 
 [[español]]
 

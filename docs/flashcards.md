@@ -11,4 +11,4 @@ date modified: 23.01.05, 11:51:04
 
 [[spaced repetition]]
 
-anki and the [20 rules of formulating knowledge in learning](http://super-memory.com/articles/20rules.htm)
+anki and the [20 rules of formulating knowledge in learning ->](http://super-memory.com/articles/20rules.htm)
