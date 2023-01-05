@@ -206,7 +206,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://unusualnemo.com/tags/</loc>
+         <lastmod>2023-01-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://unusualnemo.com/%C3%B6tzi%2C%20the%20iceman/</loc>
+         <lastmod>2023-01-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://unusualnemo.com/tags/</loc>
          <lastmod>2023-01-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
