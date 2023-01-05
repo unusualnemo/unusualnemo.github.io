@@ -5,7 +5,7 @@ date created: 23.01.03, 11:25:42
 date modified: 23.01.03, 11:28:01
 ---
 
-![[ice_man.jpg]]
+![[ice man.jpg]]
 
 above: this guy, the "ice man", was found in the ötztal alps (this is a recreation)
 
