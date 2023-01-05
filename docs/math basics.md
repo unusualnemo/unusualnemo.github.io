@@ -1,8 +1,8 @@
 ---
-title: math glossary
+title: math basics
 tags: math
 date created: 22.12.29, 11:01:27
-date modified: 23.01.02, 21:47:12
+date modified: 23.01.05, 10:34:05
 ---
 
 ## basic stuff
@@ -35,6 +35,12 @@ date modified: 23.01.02, 21:47:12
 ### proper fraction
 
 - a fraction whose denominator is greater than its numerator
+
+### simplifying radicals
+
+$$
+\sqrt{44} = \sqrt{4} \cdot \sqrt{11} = 2\sqrt{11}
+$$
 
 ### whole number
 

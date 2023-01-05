@@ -1,8 +1,8 @@
 ---
-title: complex numbers
+title: imaginary numbers
 tags: math
 date created: 23.01.04, 11:21:31
-date modified: 23.01.04, 11:33:45
+date modified: 23.01.05, 10:59:42
 ---
 
 ## initial thoughts
@@ -12,6 +12,12 @@ date modified: 23.01.04, 11:33:45
 > i think i had issues because there doesn't seem to be any real-world applications for this
 >
 > i may be wrong, but i think this exists because there exist roadblocks in some other branches of math and $i$ and $i^2$ help to cancel out $\sqrt{-1}$
+
+## why do we need imaginary numbers?
+
+[[solving equations by inventing a number system]]
+
+> this reasoning helps me think about imaginary numbers in a useful way!
 
 ## imaginary unit
 
@@ -37,7 +43,16 @@ above: this is the crux of complex numbers
 | $i^7$ | $-i$   |
 
 - if the exponent is even, it is equal to $1$ or $-1$
+	- if the exponent is a multiple of 4, it is equal to 1
 - if the exponent is odd, it is equal to $i$ or $-i$
+
+finding the nearest exponent divisible by $4$:
+
+$$
+i^{138} = i^{136} \cdot i^2 = 1 \cdot -1 = -1
+$$
+
+above: we break it into $i^{136}$ and $i^2$. $136$ is divisible by $4$ so it equals $1$, and $i^2$ is equal to $-1$. easy peasy!
 
 ## simplifying
 
@@ -56,3 +71,9 @@ $$
 | $3i$        | $\sqrt{-9}$    |
 | $i\sqrt{5}$ | $\sqrt{-5}$    |
 | $-12i$      | $-\sqrt{-144}$ |
+
+with $i$, and [[math basics#simplifying radicals|simplifying radicals]]:
+
+$$
+\sqrt{-24} = \sqrt{-1} \cdot \sqrt{4} \cdot \sqrt{6} = i \cdot 2 \cdot \sqrt{6} =2i\sqrt{6}
+$$
