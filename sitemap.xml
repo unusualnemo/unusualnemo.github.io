@@ -26,11 +26,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://unusualnemo.com/computer%20science/</loc>
-         <lastmod>2023-01-05</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://unusualnemo.com/conditionals/</loc>
          <lastmod>2023-01-05</lastmod>
          <changefreq>daily</changefreq>
@@ -76,11 +71,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://unusualnemo.com/history/</loc>
-         <lastmod>2023-01-05</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://unusualnemo.com/hominids/</loc>
          <lastmod>2023-01-05</lastmod>
          <changefreq>daily</changefreq>
@@ -116,7 +106,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://unusualnemo.com/language%20learning/</loc>
+         <loc>https://unusualnemo.com/learning%20a%20language/</loc>
          <lastmod>2023-01-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -126,7 +116,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://unusualnemo.com/learning%20computer%20science/</loc>
+         <lastmod>2023-01-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://unusualnemo.com/learning%20history/</loc>
+         <lastmod>2023-01-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://unusualnemo.com/learning%20how%20to%20learn/</loc>
+         <lastmod>2023-01-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://unusualnemo.com/learning%20in%20public/</loc>
+         <lastmod>2023-01-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://unusualnemo.com/learning%20math/</loc>
          <lastmod>2023-01-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -142,16 +152,6 @@
     </url>
     <url>
          <loc>https://unusualnemo.com/math%20basics/</loc>
-         <lastmod>2023-01-05</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://unusualnemo.com/math/</loc>
-         <lastmod>2023-01-05</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://unusualnemo.com/metalearning/</loc>
          <lastmod>2023-01-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
