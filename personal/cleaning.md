@@ -1,49 +1,52 @@
 - laundry
-	- [x] (bdr) - wash mattress cover 
-	- [x] (bhr) - wash bath rug
+	- [ ] (bdr) - wash mattress cover
 	- [x] (bhr) - clean shower curtains
-	- [x] (lvr) - wash couch cushion covers
+	- [ ] (lvr) - wash couch cushion covers
 - bedroom
-	- [x] (bdr) - clean closet 
-	- [x] (bdr) - organize closet 
-	- [x] (bdr) - clean under and behind bed 
+	- [ ] (bdr) - clean closet 
+	- [ ] (bdr) - organize closet 
+	- [ ] (bdr) - clean under and behind bed 
 - bathroom
-	- [x] (bhr) - organize metal baskets
-	- [x] (bhr) - remove mold from shower
-	- [x] (bhr) - clean bath faucets
-	- [x] (bhr) - clean inside mirror
+	- [ ] (bhr) - organize metal baskets
+	- [ ] (bhr) - remove mold from shower
+	- [ ] (bhr) - clean bath faucets
+	- [ ] (bhr) - clean inside mirror
 - kitchen
-	- [x] (kit) - clean behind sink
-	- [x] (kit) - clean cabinets and drawers
-	- [x] (kit) - clean under sink
-	- [x] (kit) - organize cabinets and drawers
-	- [x] (kit) - clean out fridge
-	- [x] (kit) - clean rubber seals in fridge and freezer doors
-	- [x] (kit) - throw out nasty food
-	- [x] (kit) - clean between fridge and counter and oven
-	- [x] (kit) - clean under garbage
+	- [ ] (kit) - clean behind sink
+	- [ ] (kit) - clean cabinets and drawers
+	- [ ] (kit) - clean under sink
+	- [ ] (kit) - organize cabinets and drawers
+	- [ ] (kit) - clean out fridge
+	- [ ] (kit) - clean rubber seals in fridge and freezer doors
+	- [ ] (kit) - throw out nasty food
+	- [ ] (kit) - clean between fridge and counter and oven
+	- [ ] (kit) - clean under garbage
 - hallway
-	- [x] (hll) - clean kitchen appliance cabinet
-	- [x] (hll) - clean tool drawers
-	- [x] (hll) - sort tool drawers
-	- [x] (hll) - clean toiletry closet
-	- [x] (hll) - organize toiletry closet
+	- [ ] (hll) - clean kitchen appliance cabinet
+	- [ ] (hll) - clean tool drawers
+	- [ ] (hll) - sort tool drawers
+	- [ ] (hll) - clean toiletry closet
+	- [ ] (hll) - organize toiletry closet
 - dining room
-	- [x] (dnr) - wipe down table
-	- [x] (dnr) - wipe down benches
-	- [x] (dnr) - vacuum chairs
-	- [x] (dnr) - clean closet
-	- [x] (dnr) - organize closet
-	- [x] (dnr) - scrub desk
-	- [x] (dnr) - organize desk
+	- [ ] (dnr) - wipe down table
+	- [ ] (dnr) - wipe down benches
+	- [ ] (dnr) - vacuum chairs
+	- [ ] (dnr) - clean closet
+	- [ ] (dnr) - organize closet
+	- [ ] (dnr) - scrub desk
+	- [ ] (dnr) - organize desk
 - living room
-	- [x] (lvr) - organize games and puzzles
-	- [x] (lvr) - clean d&d table
-	- [x] (lvr) - organize cart
-	- [x] (lvr) - clean cart
+	- [ ] (lvr) - organize games and puzzles
+	- [ ] (lvr) - clean d&d table
+	- [ ] (lvr) - organize cart
+	- [ ] (lvr) - clean cart
 - storage unit
-	- [x] (str) - sort camping stuff
-	- [x] (str) - throw stuff out (or donate it)
+	- [x] (str) - wipe down shelves
+	- [x] (str) - sweep
+	- [x] (str) - clean stuff
+	- [ ] (str) - sort camping stuff
+	- [ ] (str) - clean camping stuff
+	- [ ] (str) - throw stuff out (or donate it)
 - car
-	- [x] (car) - clean trunk
-	- [x] (car) - sort trunk
+	- [ ] (car) - clean trunk
+	- [ ] (car) - sort trunk
