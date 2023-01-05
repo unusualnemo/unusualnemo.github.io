@@ -2,7 +2,7 @@
 title: español
 tags: language
 date created: 22.12.28, 11:02:19
-date modified: 23.01.03, 12:23:17
+date modified: 23.01.04, 13:49:28
 ---
 
 see also: [[language learning]]
@@ -42,3 +42,20 @@ i enjoy both of these because they focus on transferring your knowledge of your 
 - madrigal's magic key to spanish - a book
 
 see [[language learning#grammar|here]] for more about grammar study.
+
+## cheating at conjugation
+
+it's very useful for most sentences, especially future tense
+
+but it doesn't work in all cases, especially the past tense
+
+- past tense
+	- 'he comido'
+	- i have eaten
+- present tense
+	- 'estoy comiendo'
+	- i am eating
+- future tense
+	- 'voy a comer'
+	- i am going to eat
+- only have to learn how to form participles
