@@ -81,3 +81,4 @@ pick easy sentences:
 - prioritize straightforward sentences with simple grammar
 - prioritize sentences in which you know most of the words
 	- preferably you will know all but one word, the word that you are studying from the card
+- you don't have to use the entire sentence; you can break it into a smaller complete phrase
