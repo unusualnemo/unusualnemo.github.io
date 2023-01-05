@@ -86,9 +86,9 @@ extra:
 
 nav:
   - 'home': index.md
+  - 'tags': tags.md
   - 'metalearning': learning how to learn.md
   - 'math': learning math.md
   - 'computer science': learning computer science.md
   - 'history': learning history.md
   - 'language learning': learning a language.md
-  - 'tags': tags.md
