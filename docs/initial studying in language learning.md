@@ -2,11 +2,7 @@
 title: initial studying in language learning
 tags: language
 date created: 23.01.02, 21:20:38
-date modified: 23.01.05, 11:23:53
----
-
-see also: [[active recall and spaced repetition#language learning|active recall and spaced repetition]]
-
+date modified: 23.01.05, 16:36:43
 ---
 
 studying shouldn't be your first priority of [[language learning]], [[immersion|immersion]] should be
@@ -38,8 +34,8 @@ for continued grammar study see: [[grammar study]]
 
 ### most common 1000-2000 words
 
-use [[active recall and spaced repetition]] to learn the 1000-2000 most frequent words through flashcards
+use [[flashcards in language learning|flashcards]] to learn the 1000-2000 most frequent words through flashcards
 
 this is to give you a good foundation of known words, but the meaning of sentences will still be vague, that's expected
 
-you can stop learning these whenever you catch up to it in your [[immersion#active immersion|active immersion]], then switch to sentence mining
+you can stop learning these whenever you catch up to it in your [[immersion#active|active immersion]], then switch to sentence mining
