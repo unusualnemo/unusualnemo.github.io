@@ -2,12 +2,12 @@
 title: math
 tags: topic, math
 date created: 23.01.02, 10:03:21
-date modified: 23.01.04, 11:21:18
+date modified: 23.01.05, 11:07:04
 ---
 
 [i am learning math at khan academy](https://www.khanacademy.org/math)
 
-[[math glossary]]
+[[math basics]]
 
 [[mathjax reference]]
 
@@ -15,13 +15,11 @@ date modified: 23.01.04, 11:21:18
 
 ## algebra
 
-- from arabic, *al-jabr*
-	- "reunion of broken parts" or "consolidation"
-	- the same word 'algebra' was used in old english to mean 'bone-setting'
+- [[etymology - algebra]]
 - i'm skipping algebra i and going right to algebra ii
 	- i've taken both; algebra i seems very basic, but i think i need a review of algebra ii
 
-[[complex numbers]]
+[[imaginary numbers]]
 
 ### next
 

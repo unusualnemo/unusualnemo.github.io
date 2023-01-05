@@ -2,7 +2,11 @@
 title: paleolithic technology
 tags: history
 date created: 23.01.04, 10:13:19
-date modified: 23.01.04, 10:15:36
+date modified: 23.01.05, 10:00:56
+---
+
+[[etymology - paleolithic]]
+
 ---
 
 - stone tools are possibly the first cultural artifacts that historians can study
@@ -27,3 +31,4 @@ date modified: 23.01.04, 10:15:36
 		- spear throwers
 - tools made out of other materials besides stone were also probably used, but they didn't survive
 	- [[ötzi, the iceman]] was a guy that got froze with his tools, including some of the more delicate ones
+- [[hand axes]] are the longest-used tool in human history

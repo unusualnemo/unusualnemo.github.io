@@ -5,6 +5,10 @@ date created: 23.01.04, 10:15:25
 date modified: 23.01.04, 10:15:28
 ---
 
+[[etymology - paleolithic]]
+
+---
+
 - language may be the most important innovation of the paleolithic era
 - we believe that they had language because a lot of the stuff they did would be theoretically impossible without it
 	- migration across huge distances
