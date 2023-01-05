@@ -1,8 +1,10 @@
 ---
-title: etymology - algebra
-tags: math, english
+title: _algebra
+tags:
+  - math
+  - etymology
 date created: 23.01.05, 09:41:25
-date modified: 23.01.05, 09:41:41
+date modified: 23.01.05, 17:12:12
 ---
 
 - from arabic, *al-jabr*
