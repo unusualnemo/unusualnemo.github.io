@@ -6,7 +6,7 @@ date modified: 23.01.05, 17:00:28
 
 ## hello, my name is nemo
 
-these are my personal notes from a wide range of topics. as such they are messy and probably inaccurate at times.
+these are my personal notes from a wide range of topics. as such they are messy and probably inaccurate.
 
 ## intentions
 
