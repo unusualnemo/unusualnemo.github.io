@@ -3,12 +3,12 @@ title: learning math
 tags:
   - math
 date created: 23.01.02, 10:03:21
-date modified: 23.01.05, 17:04:37
+date modified: 23.01.06, 10:42:58
 ---
 
 [i am at khan academy ->](https://www.khanacademy.org/math)
 
-[[math basics]]
+[[math glossary]]
 
 [[mathjax reference]]
 

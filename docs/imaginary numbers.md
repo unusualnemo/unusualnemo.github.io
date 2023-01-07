@@ -3,7 +3,7 @@ title: imaginary numbers
 tags:
   - math
 date created: 23.01.04, 11:21:31
-date modified: 23.01.05, 17:00:28
+date modified: 23.01.06, 10:42:48
 ---
 
 ## initial thoughts
@@ -73,8 +73,14 @@ $$
 | $i\sqrt{5}$ | $\sqrt{-5}$    |
 | $-12i$      | $-\sqrt{-144}$ |
 
-with $i$, and [[math basics#simplifying radicals|simplifying radicals]]:
+with $i$, and [[math glossary#simplifying radicals|simplifying radicals]]:
 
 $$
 \sqrt{-24} = \sqrt{-1} \cdot \sqrt{4} \cdot \sqrt{6} = i \cdot 2 \cdot \sqrt{6} =2i\sqrt{6}
 $$
+
+## the complex plane
+
+![[graphing complex numbers.png]]
+
+above: graphing $-3 + 3.5i$, $3 + 2i$, and $1 - 4i$; the x-axis becomes the real-number-axis, the y-axis becomes the imaginary-number-axis
