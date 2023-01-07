@@ -17,7 +17,9 @@ date modified: 23.01.05, 17:00:28
 				- australopithecus afarensis [[_australopithecus afarensis]]
 					- lucy
 						- found in 1974
-						- 3 mya
+						- 3.2 mya
+					- selam
+						- 3.3 mya
 			- homo (***humans***)
 			- pan (**chimpanzees**, **bonobos**)
 	- porgidae

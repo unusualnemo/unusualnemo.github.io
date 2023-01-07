@@ -16,13 +16,7 @@ date modified: 23.01.05, 17:04:10
 
 [[homo sapiens and early human migration]]
 
-[[paleolithic technology]]
-
-[[paleolithic language and culture]]
-
-[[paleolithic art]]
-
-[[organizing paleolithic societies]]
+[[paleolithic societies]]
 
 - the neolithic revolution and the birth of agriculture
 - ancient mesopotamia
