@@ -20,7 +20,8 @@ date modified: 23.01.05, 17:04:14
 
 [[loops]]
 
-- functions
+[[functions]]
+
 - git
 - strings
 - modules
