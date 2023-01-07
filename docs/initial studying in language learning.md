@@ -3,10 +3,10 @@ title: initial studying in language learning
 tags:
   - language
 date created: 23.01.02, 21:20:38
-date modified: 23.01.05, 17:00:28
+date modified: 23.01.06, 11:36:56
 ---
 
-studying shouldn't be your first priority of [[learning a language]], [[immersion|immersion]] should be
+studying shouldn't be your first priority of [[learning a language]], [[immersion]] should be
 
 ## writing system and pronunciation
 
@@ -33,10 +33,4 @@ for continued grammar study see: [[grammar study]]
 
 ## vocab
 
-### most common 1000-2000 words
-
-use [[flashcards in language learning|flashcards]] to learn the 1000-2000 most frequent words through flashcards
-
-this is to give you a good foundation of known words, but the meaning of sentences will still be vague, that's expected
-
-you can stop learning these whenever you catch up to it in your [[immersion#active|active immersion]], then switch to sentence mining
+[[flashcards#1k-2k deck|use flashcards to learn the 1000-2000 most frequent words]]

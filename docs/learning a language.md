@@ -18,6 +18,8 @@ date modified: 23.01.05, 17:04:27
 
 > get as much comprehensible input as possible and let your brain do the pattern recognition that it's so good at.
 
+the biggest obstacle to this method is being able to be okay with not understanding what you're watching or reading. it can be very frustrating feeling so lost and even feel like you're not making any progress. but the key thing is to trust your brain to do what it knows how to do. your brain *will* see the patterns and little by little you will be able to consciously notice more and more.
+
 the major difference that this method has to other methods of learning a language is that there is zero emphasis on attempting to speak the language.
 
 > my personal opinion is to speak as much as is fun for you. if you naturally translate in your head, go ahead! don't worry about breaking those rules. i find that the more flashcards i do, the more i start associating things in my every day with the language that i'm learning.
@@ -26,28 +28,32 @@ the major difference that this method has to other methods of learning a languag
 
 ## practical application
 
-### [[initial studying in language learning|initial studying]]
+### initial studying
+
+[[initial studying in language learning]]
 
 - writing system
 - phonetics
 - grammar
-- 1-2k words
+- 1-2k words [[flashcards#1k-2k deck]]
 
 ### continued studying
 
 - [[grammar study]]
-- [[flashcards in language learning]]
-	- [[sentence mining]]
+- sentence mining [[flashcards#sentence mining]]
 
-### [[immersion]]
+### immersion
 
-- [[immersion#active|active immersion]]
+[[immersion]]
+
+- [[immersion#active immersion|active immersion]]
 	- [[immersion#intensive|intensive]]
 		- crepúsculo
-		- [[sentence mining]]
+		- [[flashcards]]
 	- [[immersion#free flow|free flow]]
 		- los espookies
 		- 31 minutos
-- [[immersion#passive|passive immersion]]
+- [[immersion#passive immersion|passive immersion]]
+	- 30 minutes
 	- diana uribe
 	- music
