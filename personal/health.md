@@ -1,5 +1,7 @@
 ## routine
 
+[[pomodoro]]
+
 - this [[health#sleep|sleep]]
 - this [[health#water|water]]
 - this [[health#diet|diet]]
