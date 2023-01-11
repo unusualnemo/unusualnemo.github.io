@@ -1,14 +1,8 @@
----
-title: math glossary
-tags:
-  - math
-date created: 22.12.29, 11:01:27
-date modified: 23.01.06, 10:43:05
----
-
 ## basic stuff
 
 sometimes i forget the simplest term and i have to look it up, so i put those things here
+
+![[number systems.jpg]]
 
 ### natural numbers
 
@@ -39,8 +33,14 @@ sometimes i forget the simplest term and i have to look it up, so i put those th
 - ... -3 ... -2.5 ... -1 ... 0 ... .1 ... $\frac{1}{2}$ ... 2 ... $\pi$ ...
 	- there are an infinite amount of numbers between these numbers
 
+### imaginary number
+
+- [[imaginary numbers]]
+- $3i$, $i\sqrt{3}$
+
 ### complex number
 
+- [[complex numbers]]
 - a number that includes real numbers and imaginary numbers
 - $3i + 2$, $i\sqrt{3} - 5$
 
@@ -92,3 +92,9 @@ $$
 - the *degree* of the polynomial refers to the biggest exponent
 - the *leading coefficient* is the coefficient in front of the biggest exponent
 - exponents must be non-negative integers
+
+### quadratic equation
+
+$$
+x= \frac{-b\pm\sqrt{b^2-4ac}}{2a}
+$$

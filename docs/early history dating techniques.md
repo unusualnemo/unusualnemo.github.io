@@ -1,0 +1,6 @@
+- [[radiocarbon dating]]
+- potassium-argon dating for dating volcanic eruptions even further back
+- stratigraphy looks at layers in the earth
+- ice cores dating
+- dendrochronology
+- varve or sedimentary rock dating method

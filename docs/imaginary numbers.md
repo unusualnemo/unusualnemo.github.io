@@ -1,10 +1,4 @@
----
-title: imaginary numbers
-tags:
-  - math
-date created: 23.01.04, 11:21:31
-date modified: 23.01.06, 10:42:48
----
+also: [[complex numbers]]
 
 ## initial thoughts
 
@@ -20,6 +14,8 @@ date modified: 23.01.06, 10:42:48
 
 > this reasoning helps me think about imaginary numbers in a useful way!
 
+a couple of fields that use imaginary numbers are electrical engineering and quantum physics.
+
 ## imaginary unit
 
 $$
@@ -29,8 +25,6 @@ $$
 $$
 i^2 = -1
 $$
-
-above: this is the crux of complex numbers
 
 | $i^x$ | equals |
 | ----- | ------ |
@@ -73,14 +67,8 @@ $$
 | $i\sqrt{5}$ | $\sqrt{-5}$    |
 | $-12i$      | $-\sqrt{-144}$ |
 
-with $i$, and [[math glossary#simplifying radicals|simplifying radicals]]:
+with $i$, and [[math glossary#simplifying radicals]]:
 
 $$
 \sqrt{-24} = \sqrt{-1} \cdot \sqrt{4} \cdot \sqrt{6} = i \cdot 2 \cdot \sqrt{6} =2i\sqrt{6}
 $$
-
-## the complex plane
-
-![[graphing complex numbers.png]]
-
-above: graphing $-3 + 3.5i$, $3 + 2i$, and $1 - 4i$; the x-axis becomes the real-number-axis, the y-axis becomes the imaginary-number-axis

@@ -1,15 +1,40 @@
----
-title: flashcards
-tags:
-  - language
-  - metalearning
-date created: 23.01.05, 11:20:05
-date modified: 23.01.06, 11:41:28
----
-
 [super memo ->](http://super-memory.com/index.htm)
 
 [tutorial on setting up anki for language learning on refold ->](https://refold.la/roadmap/stage-1/a/anki-setup)
+
+---
+
+## how does it work
+
+### active recall
+
+also known as retrieval practice or practice testing.
+
+based on the testing effect that suggests that memories are strengthened when you successfully retrieve info from your memory.
+
+the most popular study method of students is rereading the text, but it's not enough to passive intake the information and feel like you recognize it.
+
+it reminds me of working out, signaling to your body that you'll need these muscles later. active recall seems to signal to the brain that you'll need this info later.
+
+### the forgetting curve
+
+information learned is quickly forgotten if it is not studied
+
+![[forgetting curve.png]]
+
+### spaced repetition
+
+if you practice active recall regularly with the information, it strengthens the durability of the memory more each time you recall it
+
+![[forgetting curve with spaced repetition.png]]
+
+the intervals don't have to be evenly split up. newer information must be recalled sooner, but older information doesn't have to be recalled very often.
+
+### desirable difficulty
+
+the harder it is to recall the information, the more the that memory is strengthened. therefore it is not only more time-efficient to space out your active recall, but it is also desirable for the durability of the memory.
+
+![[spaced repetition with longer intervals.jpg]]
 
 ## language learning
 
@@ -19,11 +44,11 @@ this gives you a good foundation of known words, but the meaning of sentences wi
 
 there are many premade frequency decks for anki. you really shouldn't pay money for this deck; there are so many great options.
 
-you can stop learning these whenever you catch up to it in your [[immersion#active immersion|active immersion]], then switch to [[flashcards#sentence mining|sentence mining]]
+you can stop learning these whenever you catch up to it in your [[immersion#active immersion]], then switch to [[flashcards#sentence mining]]
 
 ### sentence mining
 
-this deck is made by you by taking sentences out of your [[immersion#active immersion|active immersion]] and making them into flashcards.
+this deck is made by you by taking sentences out of your [[immersion#active immersion]] and making them into flashcards.
 
 the card should look something like this...
 
@@ -31,7 +56,7 @@ the card should look something like this...
 > --
 > I like horse ==**races**==.
 
-... with one unknown word bolded and/or highlighted in the target-language sentence, as well as the corresponding natural-language sentence.
+... with one unknown word bolded and/or highlighted in the target-language sentence, as well as the corresponding native-language sentence.
 
 that one, highlighted word is the word you'll be studying.
 

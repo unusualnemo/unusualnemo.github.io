@@ -1,11 +1,3 @@
----
-title: how to study prehistory
-tags:
-  - history
-date created: 22.12.28, 09:06:18
-date modified: 23.01.05, 17:00:28
----
-
 ## scope of history
 
 - 4.5 bya - earth
@@ -23,21 +15,14 @@ date modified: 23.01.05, 17:00:28
 	- the stories could just be stories and not real occurrences
 	- [[game of telephone]] by way of stories passed down through generations
 
-## fields of study
+## related fields of study
 
 - anthropology
 	- archaeology mainly studies humans through remains
 - paleontology
 - dendrochronology
 
-## dating techniques
-
-- [[radiocarbon dating]]
-- potassium-argon dating for dating volcanic eruptions even further back
-- stratigraphy looks at layers in the earth
-- ice cores dating
-- dendrochronology
-- varve or sedimentary rock dating method
+![[early history dating techniques]]
 
 ## other clues
 

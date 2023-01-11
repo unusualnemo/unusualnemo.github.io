@@ -1,11 +1,3 @@
----
-title: paleolithic technology
-tags:
-  - history
-date created: 23.01.04, 10:13:19
-date modified: 23.01.05, 17:00:27
----
-
 - stone tools are possibly the first cultural artifacts that historians can study
 - the names of the paleolithic periods are based on the progression of tools
 	- lower paleolithic
@@ -28,7 +20,12 @@ date modified: 23.01.05, 17:00:27
 		- spear throwers
 - tools made out of other materials besides stone were also probably used, but they didn't survive
 	- [[ötzi, the iceman]] was a guy that got froze with his tools, including some of the more delicate ones
-- [[hand axes]] are the longest-used tool in human history
-- [[paleolithic spears]]
-	- composite tool
-	- microlith
+- development/progression of tools
+	- tools start getting smaller, more detailed, more specialized (microliths in composite tools)
+		- 35-25 tya - [[hand axes]] -> spear points in spears ([[paleolithic spears]])
+			- makes hunting less dangerous - more food, more people
+			- [[hand axes]] are the longest-used tool in human history
+			- [[paleolithic spears]]
+				- composite tool
+				- microlith
+- [[paleolithic architecture]]

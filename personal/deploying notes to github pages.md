@@ -1,5 +1,0 @@
-- take notes as usual
-- push changes to github on `main`
-	- this is the regular, unbuilt branch for notetaking
-- in powershell: `mkdocs gh-deploy --force`
-	- this build site and pushes to gh-pages branch

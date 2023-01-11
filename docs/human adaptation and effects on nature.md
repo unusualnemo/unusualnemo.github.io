@@ -1,0 +1,11 @@
+- moving from warm climate to cold climate really quickly, we had to adapt real fast
+	- clothing out of animal skins
+	- making fires to keep warm
+- weapon making to kill large mammals
+	- extinction of giant land mammals
+		- mammoth
+		- giant kangaroo
+		- mastodons
+- semi-permanent settlements
+	- shifting from nomadic to fixed homes
+	- beginnings of establishing communities and agricultural practices

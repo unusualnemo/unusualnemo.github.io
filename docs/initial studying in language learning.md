@@ -1,12 +1,4 @@
----
-title: initial studying in language learning
-tags:
-  - language
-date created: 23.01.02, 21:20:38
-date modified: 23.01.06, 11:36:56
----
-
-studying shouldn't be your first priority of [[learning a language]], [[immersion]] should be
+studying shouldn't be your first priority of [[=language learning]], [[immersion]] should be
 
 ## writing system and pronunciation
 
@@ -33,4 +25,4 @@ for continued grammar study see: [[grammar study]]
 
 ## vocab
 
-[[flashcards#1k-2k deck|use flashcards to learn the 1000-2000 most frequent words]]
+[[flashcards#1k-2k deck]]

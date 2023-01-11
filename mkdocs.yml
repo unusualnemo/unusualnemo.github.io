@@ -63,8 +63,8 @@ plugins:
   - search
   - roamlinks 
   - mermaid2
-  - tags:
-      tags_file: tags.md
+  #- tags:
+  #    tags_file: tags.md
   - embed_file:
       callouts: true
       language_message: 'this note does not exist'
@@ -86,7 +86,6 @@ extra:
 
 nav:
   - 'home': index.md
-  - 'tags': tags.md
   - 'metalearning': learning how to learn.md
   - 'math': learning math.md
   - 'computer science': learning computer science.md

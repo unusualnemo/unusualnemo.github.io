@@ -1,13 +1,3 @@
----
-title: español
-tags:
-  - language
-date created: 22.12.28, 11:02:19
-date modified: 23.01.05, 17:00:28
----
-
-see also: [[learning a language]]
-
 ## resources
 
 ### listening
@@ -42,7 +32,7 @@ i enjoy both of these because they focus on transferring your knowledge of your 
 - [language transfer ->](https://www.languagetransfer.org/) - a podcast
 - madrigal's magic key to spanish - a book
 
-see [[learning a language#grammar|here]] for more about grammar study.
+see [[=language learning#grammar]] for more about grammar study.
 
 ## cheating at conjugation
 
@@ -60,3 +50,15 @@ but it doesn't work in all cases, especially the past tense
 	- 'voy a comer'
 	- i am going to eat
 - only have to learn how to form participles
+
+## trilled r
+
+> i'm still not good at these, but people learn better from amateurs than from experts so i'll note the things that have helped me
+
+the spanish *r* is so close to a *d* sound. i've heard that it was close to a *z* or a *ts* sound, but those are lies, it's a *d* sound.
+
+because it's a *d* sound i've found that the '*pdince of pdussia*' mantra worked the best.
+
+i also didn't feel like '*erre con erre*' was helpful. i think it was because there's not a lot of airflow in *erre*.
+
+as opposed to words beginning with *j* or *c* like *jarritos* or *jarra*/*jarro* or *cerradura* that lead into the *rr* with a lot of airflow.

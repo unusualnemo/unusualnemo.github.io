@@ -1,10 +1,4 @@
----
-title: grammar study
-tags:
-  - language
-date created: 23.01.05, 11:22:59
-date modified: 23.01.05, 17:00:27
----
+see also: [[initial studying in language learning#grammar]]
 
 look up grammar on a need-to-know basis. if you haven't seen a rule before, you can't be sure that this it's a common enough rule to spend time on.
 

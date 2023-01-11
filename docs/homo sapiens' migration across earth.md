@@ -1,0 +1,5 @@
+- 70-100 tya - homo sapiens migrating from africa into europe and asia
+- 35-65 tya - reached australia by canoe
+- 13 tya - pleistocene ice age created a land bridge between asia and north america that people crossed to get to the americas
+- depletion of resources and competition probably drove people to migrate from africa
+- language probably helped us plan and coordinate migrations as well

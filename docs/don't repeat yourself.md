@@ -1,11 +1,3 @@
----
-title: "don't repeat yourself"
-tags:
-  - comp_sci
-date created: 23.01.06, 08:18:22
-date modified: 23.01.06, 08:33:37
----
-
 a principle of software development aimed at reducing repetition and redundancy
 
 first used in *the pragmatic programmer*

@@ -1,11 +1,3 @@
----
-title: ötzi, the iceman
-tags:
-  - history
-date created: 23.01.03, 11:25:42
-date modified: 23.01.05, 17:00:27
----
-
 ![[ice man.jpg]]
 
 above: this guy, the "ice man", was found in the ötztal alps (this is a recreation)

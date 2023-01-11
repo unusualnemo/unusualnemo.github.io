@@ -1,7 +1,6 @@
 ---
 title: index
-date created: 23.01.02, 10:03:22
-date modified: 23.01.05, 17:00:28
+tags: 
 ---
 
 ## hello, my name is nemo
