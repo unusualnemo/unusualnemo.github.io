@@ -15,7 +15,7 @@
 
 ## language
 
-[[=language learning]]
+[[=language learning notes]]
 
 ## memory
 
@@ -30,7 +30,7 @@
 	- working memory
 	- declarative vs. procedural
 - health
-	- sleep ([[=health#sleep]])
+	- sleep ([[=health notes#sleep]])
 	- stress
 	- diet
 	- exercise

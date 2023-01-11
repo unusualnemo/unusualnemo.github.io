@@ -32,7 +32,7 @@ i enjoy both of these because they focus on transferring your knowledge of your 
 - [language transfer ->](https://www.languagetransfer.org/) - a podcast
 - madrigal's magic key to spanish - a book
 
-see [[=language learning#grammar]] for more about grammar study.
+see [[=language learning notes#grammar]] for more about grammar study.
 
 ## cheating at conjugation
 

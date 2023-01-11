@@ -1,4 +1,4 @@
-studying shouldn't be your first priority of [[=language learning]], [[immersion]] should be
+studying shouldn't be your first priority of [[=language learning notes]], [[immersion]] should be
 
 ## writing system and pronunciation
 

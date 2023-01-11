@@ -24,7 +24,7 @@ i say 'as much as possible' because even if you know the definition of every wor
 
 ### free flow
 
-free flow is great for acquisition ([[=language learning#language acquisition theory]]). instead of pausing the immersion, you just let your brain process as it comes.
+free flow is great for acquisition ([[=language learning notes#language acquisition theory]]). instead of pausing the immersion, you just let your brain process as it comes.
 
 ## passive immersion
 

@@ -8,9 +8,9 @@
 
 [[tiny habits]]
 
-- this [[=health#sleep]]
-- this [[=health#water]]
-- this [[=health#diet]]
+- this [[=health notes#sleep]]
+- this [[=health notes#water]]
+- this [[=health notes#diet]]
 
 ^ something like this?
 
