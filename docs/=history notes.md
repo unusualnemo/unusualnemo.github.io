@@ -6,19 +6,13 @@
 
 ### prehistory
 
-![[how to study prehistory]]
+[[how to study prehistory]]
 
----
+[[homo sapiens and early human migration]]
 
-![[homo sapiens and early human migration]]
+[[paleolithic societies]]
 
----
-
-![[paleolithic societies]]
-
----
-
-![[agricultural revolution]]
+[[agricultural revolution]]
 
 - ancient mesopotamia
 - ancient egypt

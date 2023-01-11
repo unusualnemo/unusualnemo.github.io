@@ -1,4 +1,4 @@
-![[&paleolithic]]
+[[&paleolithic]]
 
 ---
 
@@ -19,8 +19,8 @@
 - resources are limited to environment
 	- moving frequently for more resources
 
-![[paleolithic technology]]
+[[paleolithic technology]]
 
-![[paleolithic language and culture]]
+[[paleolithic language and culture]]
 
-![[paleolithic art]]
+[[paleolithic art]]

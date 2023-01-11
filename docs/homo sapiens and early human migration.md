@@ -1,5 +1,5 @@
-![[evolution of homo sapiens]]
+[[evolution of homo sapiens]]
 
-![[homo sapiens' migration across earth]]
+[[homo sapiens' migration across earth]]
 
-![[human adaptation and effects on nature]]
+[[human adaptation and effects on nature]]

@@ -22,7 +22,7 @@
 - paleontology
 - dendrochronology
 
-![[early history dating techniques]]
+[[early history dating techniques]]
 
 ## other clues
 
