@@ -2,7 +2,7 @@
 
 [learning how to learn ->](https://www.coursera.org/learn/learning-how-to-learn/home/week/1)
 
-- #current_notetaking
+tag: current_notetaking
 
 ---
 

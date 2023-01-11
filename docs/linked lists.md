@@ -1,6 +1,6 @@
 [codecademy ->](https://www.codecademy.com/paths/computer-science/tracks/cspath-cs-102/modules/linked-lists/articles/linked-lists-conceptual)
 
-- #current_notetaking
+tag: current_notetaking
 
 ---
 

@@ -63,7 +63,6 @@ plugins:
   - search
   - roamlinks 
   - mermaid2
-  - tags
   - embed_file:
       callouts: true
       language_message: 'this note does not exist'

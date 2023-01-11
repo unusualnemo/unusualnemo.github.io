@@ -1,4 +1,4 @@
-- #current_notetaking
+tag: current_notetaking
 
 ---
 
