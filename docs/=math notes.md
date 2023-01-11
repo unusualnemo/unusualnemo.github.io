@@ -12,7 +12,7 @@
 - i'm skipping algebra i and going right to algebra ii
 	- i've taken both; algebra i seems very basic, but i think i need a review of algebra ii
 
-#current_notetaking
+- #current_notetaking
 
 [[imaginary numbers]]
 

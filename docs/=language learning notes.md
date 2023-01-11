@@ -2,7 +2,7 @@
 
 [[español]]
 
-#current_notetaking
+- #current_notetaking
 
 ---
 
